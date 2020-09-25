@@ -1,7 +1,3 @@
-# FEZ
-Finite Element Zurich
-
-
 # FEZ (Finite Element Zurich) Roadmap
 
 Vision Statement
