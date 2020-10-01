@@ -1,7 +1,14 @@
+**Badges** 
 Can add a "download" badge to track how many people download workflows
 and also followers
 
 https://shields.io/category/social
 
+**Markdown files** 
 Here is a cheat sheet for markdown files (includes how to include images etc):
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+**DOIs**
+Can generate for the different protocol - this can give us and collaborators credit, can add to CV
+
+
