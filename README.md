@@ -9,7 +9,7 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
 
 If you are interested in contributing workflows for any stage of the finite element modeling process (including creating initial 3D models), please contact me!
 
-The current plan is to create a website and then link workflows on this website. Workflows will be added on Github by contributors (as Markdown files or by uploading PDFs.)
+The current plan is to create a website and then link workflows on this website. Workflows will be added on Github to this repository by contributors (as Markdown files or by uploading PDFs.) We are also considering creating a Github organisation rather than a single repository.
 
 Ideas for contributing via Github:
 If you want people to be able to make changes to your protocol, please upload as Markdown (.md) file. If not, please upload a PDF of your workflow.
