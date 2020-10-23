@@ -23,7 +23,7 @@ We as members and contributors strive to make all people– regardless of their 
 
 •	Convey your opinion in a calm and understanding manner
 
-•When using content or code make sure to contact the original creator prior to using it and make sure to cite them
+• When using content or code make sure to contact the original creator prior to using it and make sure to cite them
 
 **Unacceptable behaviors include:**
 
@@ -61,9 +61,7 @@ comments, commits, code, issues, and other contributions that are not aligned to
 
 ## Enforcement Guidelines
 (modified from Contributor Covenant,
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+version 2.0: [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
