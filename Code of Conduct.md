@@ -1,4 +1,5 @@
 # FEZ Code of Conduct
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
 
 *Please note that this project is released with a specific Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 We as members and contributors strive to make all people– regardless of their background or identity– who come to this project as a contributor or potential user feel comfortable, included in decision making, and be able to participate and learn in a safe space. Therefore, users should avoid making assumptions about gender or race, reinforcing stereotypes, using sexualized or otherwise inappropriate language, or demonstrating a lack of regard for the safety and well-being of vulnerable people.* 
@@ -60,8 +61,7 @@ Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Enforcement Guidelines
-(modified from Contributor Covenant,
-version 2.0: [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
+(modified from Contributor Covenant, version 2.0: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
