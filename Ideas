@@ -4,10 +4,6 @@ and also followers
 
 https://shields.io/category/social
 
-**Markdown files** 
-Here is a cheat sheet for markdown files (includes how to include images etc):
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
 **DOIs**
 Can generate for the different protocol - this can give us and collaborators credit, can add to CV
 
@@ -16,7 +12,4 @@ Can generate for the different protocol - this can give us and collaborators cre
 https://cassgvp.github.io/git-for-collaborative-documentation/
 
 **Contributor Guidelines**
-Ask them to add a LICENSE.md as well as a CITATION.md file. Maybe can even have templates for these?
-
-**Repo or Organisation with Several Repos?*8
-Info: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/permission-levels-for-an-organization
+Should they add a CITATION.md file as well as a LICENSE.md file?
