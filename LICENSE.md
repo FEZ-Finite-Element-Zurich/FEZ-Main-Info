@@ -1,1 +1,1 @@
-Non-software content in this project is licensed under a [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+Content in FEZ-Main-Info. is licensed under a [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. Please check each workflow's repository for the specific license associated with that workflow/code. We leave the licensing for each workflow up to the contributor, so licenses might vary between workflows.
