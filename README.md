@@ -14,21 +14,24 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
 ## Steps to contribute workflows:
 1. Create github account   
 
-2. Make a repository for your workflow   
+2. Request membership to the FEZ Github organisation by creating a new Issue in this repository. In the Issue, write up your name and what you work on (just a few words, we're curious!) and a brief description of what you want to contribute. We'll accept all relevant contributions, this step is just for us to know who is contributing and what they are contributing and grant membership.
+
+3. Make a repository for your workflow   
   - One repository can contain several documents, for example code, instructions (as a markdown file or PDF), etc  
 
-3. When you create the repository, create a README.md file. This will be a summary of your workflow or technique. You can also include the protocol steps directly in the README file. This is also where you can credit other contributors of the workflow and link to papers and datasets. See [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) for some tips on how to format text in .md documents.
+4. When you create the repository, create a README.md file. This will be a summary of your workflow or technique. You can also include the protocol steps directly in the README file. This is also where you can credit other contributors of the workflow and link to papers and datasets. See [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) for some tips on how to format text in .md documents.
 
-4. Add the workflow/protocol. Workflow instructions can be added as different document types depending on whether you want them to be able to be updated. 
+5. Add the workflow/protocol. Workflow instructions can be added as different document types depending on whether you want them to be able to be updated. 
   - If you want people (including future you!) to be able to suggest updates to your protocol, you can add the workflow as a Github .md document (as part of your README file or a separate .md file). 
   - If you prefer, you can upload a PDF of your workflow (but any future changes will then require you to re-make the PDF).
   
-4. Upload any code as separate documents.
+6. Upload any code as separate documents.
 
-5. Add a LICENSE.md file. Choose a license [here](https://choosealicense.com/) based on how you want the workflow to be used (e.g. are people allowed to modify it? How should they cite it?). Once you pick a license, create a new document in your repository titled "LICENSE.md" and 
+7. Add a LICENSE.md file. Choose a license [here](https://choosealicense.com/) based on how you want the workflow to be used (e.g. are people allowed to modify it? How should they cite it?). Once you pick a license, create a new document in your repository titled "LICENSE.md" and 
   
-3. Format your repository for indexing on our website  
+8. Format your repository for indexing on our website  
   - We will link to all workflows via our website. To make sure your name and description of your workflow shows up correctly, please:  
     - [add more info]  
  
+9. Once membership to the organisation is granted, fork your repository to Fez-Finite-Element-Zurich. It will then show up both on your Github account and on the FEZ organisation, and will automatically show up on our website under the list of resources. 
 
