@@ -1,14 +1,15 @@
 # FEZ (Finite Element Zurich)
-![image](https://img.shields.io/badge/FEZ-contributor-brightgreen)  ?link=http://left&link=http://right
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/finiteelementzurich/shared_invite/zt-lx6ns6fb-_YBEaCm_tuOz_UfZzNRiwg)
+[![Website Link](https://img.shields.io/badge/FEZ-website-brightgreen)](https://joyceykao.github.io/advlanding/workflows.html)
 
-[![Open In Collab](https://img.shields.io/badge/FEZ-contributor-brightgreen)](https://github.com/FEZ-Finite-Element-Zurich)
+
+[![FEZ](https://img.shields.io/badge/FEZ-contributor-brightgreen)](https://github.com/FEZ-Finite-Element-Zurich)
 
 Vision Statement
 - 
 
 Our vision is to create a virtual hub to share modeling workflows for finite element analysis (a modeling method used in biomechanics research). Our website will serve as a place to learn methods (including open access alternatives to commercial software) and form collaborations. The main goal is to form a finite element analysis community across various institutions and disciplines, and to increase access to this modeling methodology. 
 
-*Project is in Progress*
 
 # Instructions for Contributors  
 
@@ -23,6 +24,7 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
   - One repository can contain several documents, for example code, instructions (as a markdown file or PDF), etc  
 
 4. When you create the repository, create a README.md file. This will be a summary of your workflow or technique. You can also include the protocol steps directly in the README file. This is also where you can credit other contributors of the workflow and link to papers and datasets. See [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) for some tips on how to format text in .md documents.
+  - Add this button to the top of your repository to show that it is part of the FEZ initiative! [![FEZ](https://img.shields.io/badge/FEZ-contributor-brightgreen)](https://github.com/FEZ-Finite-Element-Zurich). To add this, paste this code into the top of your README file (take out the spaces in between the different brackets): [![FEZ] (https://img.shields.io/badge/FEZ-contributor-brightgreen)] (https://github.com/FEZ-Finite-Element-Zurich)
 
 5. Add the workflow/protocol. Workflow instructions can be added as different document types depending on whether you want them to be able to be updated. 
   - If you want people (including future you!) to be able to suggest updates to your protocol, you can add the workflow as a Github .md document (as part of your README file or a separate .md file). 
