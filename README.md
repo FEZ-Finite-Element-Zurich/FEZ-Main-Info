@@ -1,6 +1,6 @@
 # FEZ (Finite Element Zurich)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/finiteelementzurich/shared_invite/zt-lx6ns6fb-_YBEaCm_tuOz_UfZzNRiwg)     
-[![Website Link](https://img.shields.io/badge/FEZ-website-brightgreen)](https://joyceykao.github.io/advlanding/workflows.html)
+[![Website Link](https://img.shields.io/badge/FEZ-website-brightgreen)](https://joyceykao.github.io/advlanding/index.html)
 
 
 
