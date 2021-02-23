@@ -35,7 +35,7 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
   
 8. Format your repository for indexing on our website  
   - We will link to all workflows via our website. To make sure your name and description of your workflow shows up correctly, please:  
-    - [add more info]  
+    - [we need to add more info here]  
  
 9. Once membership to the organisation is granted, fork your repository to Fez-Finite-Element-Zurich. It will then show up both on your Github account and on the FEZ organisation, and will automatically show up on our website under the list of resources. 
 
