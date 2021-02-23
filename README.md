@@ -34,8 +34,7 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
 7. Add a LICENSE.md file. Choose a license [here](https://choosealicense.com/) based on how you want the workflow to be used (e.g. are people allowed to modify it? How should they cite it?). Once you pick a license, create a new document in your repository titled "LICENSE.md" and 
   
 8. Format your repository for indexing on our website  
-  - We will link to all workflows via our website. To make sure your name and description of your workflow shows up correctly, please:  
-    - [we need to add more info here]  
+  - We will link to all workflows via our website. *This section is in progress - for now, please add your name and a brief summary or keywords to the description, and we might re-format these in the future to ensure a more uniform format*
  
 9. Once membership to the organisation is granted, fork your repository to Fez-Finite-Element-Zurich (on your repository, click the fork button in the top right hand corner, and select the FEZ organisation as the place you want to fork to. It will then show up both on your Github account and on the FEZ organisation, and will automatically show up on our website under the list of resources. 
 
