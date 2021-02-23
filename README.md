@@ -1,4 +1,7 @@
 # FEZ (Finite Element Zurich)
+![image](https://img.shields.io/badge/FEZ-contributor-brightgreen)  ?link=http://left&link=http://right
+
+[![Open In Collab](https://img.shields.io/badge/FEZ-contributor-brightgreen)](https://github.com/FEZ-Finite-Element-Zurich)
 
 Vision Statement
 - 
