@@ -17,7 +17,7 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
 ## Steps to contribute workflows:
 1. Create github account   
 
-2. Request membership to the FEZ Github organisation by creating a new Issue in this repository. In the Issue, write up your name and what you work on (just a few words, we're curious!) and a brief description of what you want to contribute. We'll accept all relevant contributions, this step is just for us to know who is contributing and what they are contributing and grant membership.
+2. Request membership to the FEZ Github organisation by creating a new Issue in this repository. In the Issue, write up your name and what you work on (just a few words, we're curious!) and a brief description of what you want to contribute. We'll accept all relevant contributions, this step is just for us to know who is contributing and what they are contributing and grant membership. Once we send you an invitation, you need to accept it (there should be an invite notification showing up on the github organisation when you look at that page. This is important because without accepting the invitation you will be unable to contribute workflows. Please ask us if you have any questions!
 
 3. Make a repository for your workflow   
   - One repository can contain several documents, for example code, instructions (as a markdown file or PDF), etc  
