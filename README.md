@@ -38,7 +38,7 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
 9. Once membership to the organisation is granted, fork your repository to Fez-Finite-Element-Zurich (on your repository, click the fork button in the top right hand corner, and select the FEZ organisation as the place you want to fork to. It will then show up both on your Github account and on the FEZ organisation, and will automatically show up on our website under the list of resources. 
 
 ____
-## FEA Freeware (including for segmentation, surface mesh manipulation, tetrameshing, analysis)
+## Free and Open Source Programs for FEA (including for segmentation, surface mesh manipulation, tetrameshing, analysis)
 *All of these are free resources except in some cases for Dragonfly
 
 - [3D Slicer](https://www.slicer.org/): segmentation
