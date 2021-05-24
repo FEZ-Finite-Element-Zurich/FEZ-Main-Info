@@ -4,8 +4,7 @@
 
 
 
-Vision Statement
-- 
+# Vision Statement
 
 Our vision is to create a virtual hub to share modeling workflows for finite element analysis (a modeling method used in biomechanics research). Our website will serve as a place to learn methods (including open access alternatives to commercial software) and form collaborations. The main goal is to form a finite element analysis community across various institutions and disciplines, and to increase access to this modeling methodology. 
 
@@ -39,4 +38,20 @@ Our vision is to create a virtual hub to share modeling workflows for finite ele
 9. Once membership to the organisation is granted, fork your repository to Fez-Finite-Element-Zurich (on your repository, click the fork button in the top right hand corner, and select the FEZ organisation as the place you want to fork to. It will then show up both on your Github account and on the FEZ organisation, and will automatically show up on our website under the list of resources. 
 
 ____
-For even more resources, check out this [awesome curated list by Luca Modenese](https://github.com/modenaxe/awesome-biomechanics) for all sorts of tools for biomechanics (not just limited to FEA!)
+## FEA Freeware (including for segmentation, surface mesh manipulation, tetrameshing, analysis)
+*All of these are free resources except in some cases for Dragonfly
+
+- [3D Slicer](https://www.slicer.org/): segmentation
+- [Dragonfly](https://www.theobjects.com/dragonfly/get-non-commercial-licensing-program.html): segmentation, free non-commercial licenses except in certain regions
+- [MITK-GM](https://araex.github.io/mitk-gem-site/): segmentation using GraphCut, surface mesh and tetrahedral mesh generation
+- [MeshLab](https://www.meshlab.net/): surface mesh cleaning
+- [Blender](https://www.blender.org/): surface mesh cleaning, assembling bones, creating hypothetical geometries, etc
+- [TetGen](http://wias-berlin.de/software/tetgen/): tetrahedral mesh generator
+- [Gibbon](https://github.com/gibbonCode/GIBBON): segmentation, surface meshing, TetGen for tetrahedral meshing, FE analaysis with FEBio, Matlab based
+- [FEBio](https://github.com/Kevin-Mattheus-Moerman/febio2): finite-element analysis developed for biomechanics, uses uses TetGen for tetrahedral meshing
+- [ArtiSynth](https://www.artisynth.org/Main/HomePage): finite element and multi-body dynamics analyses developed for biomechanics, uses TetGen for tetrahedral meshing, Java based
+
+## Other Resources
+- [**Funky Morph Users Group**](https://github.com/FunkyMUG/FunkyMUG) hosts interactive workshops for learning new open access techniques for biomechanics and morphology research
+- Preprint ["How to get meaningful and correct results fromyour finite element model" - Martin Bäker](https://www.researchgate.net/publication/328956103_How_to_get_meaningful_and_correct_results_from_your_finite_element_model)
+- For even more resources, check out this [awesome curated list by Luca Modenese](https://github.com/modenaxe/awesome-biomechanics) for all sorts of tools for biomechanics (not just limited to FEA!)
