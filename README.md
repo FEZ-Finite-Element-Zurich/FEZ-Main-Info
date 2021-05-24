@@ -53,5 +53,6 @@ ____
 
 ## Other Resources
 - [**Funky Morph Users Group**](https://github.com/FunkyMUG/FunkyMUG) hosts interactive workshops for learning new open access techniques for biomechanics and morphology research
+- [**The CoFEA Initiative**](https://cofea.readthedocs.io/en/latest/index.html) has similar aims to our project, although with a stronger engineering rather than biomechanics focus. Check out their website, there are lots of examples of different benchmark problems that highlight the different parameters used in FEA and how they influence models
 - Preprint ["How to get meaningful and correct results fromyour finite element model" - Martin Bäker](https://www.researchgate.net/publication/328956103_How_to_get_meaningful_and_correct_results_from_your_finite_element_model)
 - For even more resources, check out this [awesome curated list by Luca Modenese](https://github.com/modenaxe/awesome-biomechanics) for all sorts of tools for biomechanics (not just limited to FEA!)
