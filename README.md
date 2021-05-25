@@ -46,6 +46,7 @@ ____
 - [MITK-GM](https://araex.github.io/mitk-gem-site/): segmentation using GraphCut, surface mesh and tetrahedral mesh generation
 - [MeshLab](https://www.meshlab.net/): surface mesh cleaning
 - [Blender](https://www.blender.org/): surface mesh cleaning, assembling bones, creating hypothetical geometries, etc
+- [pyFormex](http://www.nongnu.org/pyformex/): creating surface and FEA meshes, Python based
 - [TetGen](http://wias-berlin.de/software/tetgen/): tetrahedral mesh generator
 - [Gibbon](https://github.com/gibbonCode/GIBBON): segmentation, surface meshing, TetGen for tetrahedral meshing, FE analaysis with FEBio, Matlab based
 - [FEBio](https://github.com/Kevin-Mattheus-Moerman/febio2): finite-element analysis developed for biomechanics, uses uses TetGen for tetrahedral meshing
