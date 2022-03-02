@@ -2,6 +2,8 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/finiteelementzurich/shared_invite/zt-npk1si4j-2~Cew80JO~DMxe5undnUpA)     
 [![Website Link](https://img.shields.io/badge/FEZ-website-brightgreen)](https://fez-finite-element-zurich.github.io/)
 
+The FEA Zürich (FEZ) group is a collaboration between the Palaeontological Institute and Museum (PIM) and the Institute of Evolutionary Medicine (IEM). FEZ was founded by Dr. Eva Herbst, Dr. Nicole Webb, and Dylan Bastiaans to unite reseracher using FEA to answer biological questions. 
+Members: Martin Häusler (IEM, Faculty Support), Torsten Scheyer (PIM, Faculty Support) and Jonas Widmer (Local Collaborator).
 
 
 # Vision Statement
